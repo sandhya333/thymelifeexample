@@ -9,6 +9,7 @@
     <name>petclinic</name>
     <packaging>war</packaging>
     <!-- configuring webhooks --->
+    <!-- configuring webhooks --->
 
     <properties>
     	    
